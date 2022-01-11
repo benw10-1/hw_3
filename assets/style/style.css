@@ -54,6 +54,11 @@ header {
   margin: 10px auto;
 }
 
+#length {
+  font-size: 1em;
+  text-align: center;
+}
+
 .card-header::after {
   content: " ";
   display: block;
