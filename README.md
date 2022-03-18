@@ -6,8 +6,8 @@ In this miniProject I use Javascript to generate a random password that is displ
 
 ## Links
 
-Website: https://benw10-1.github.io/first_portfolio/
-Repo: https://github.com/benw10-1/first_portfolio
+Website: https://benw10-1.github.io/randomPass/<br>
+Repo: https://github.com/benw10-1/randomPass
 
 ## Screenshots 
 ![demo](assets/images/readMeImg.png)
